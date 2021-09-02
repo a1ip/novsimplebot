@@ -1,0 +1,26 @@
+{
+  "name": "novsimplebot",
+  "version": "1.0.0",
+  "description": "@novsimplebot — Simple Telegram Bot in Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1ip/novsimplebot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Philippe Rigovanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a1ip/novsimplebot/issues"
+  },
+  "homepage": "https://github.com/a1ip/novsimplebot#readme",
+  "dependencies": {
+    "telegraf": "^4.4.1"
+  }
+}
